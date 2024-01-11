@@ -24,3 +24,4 @@ ___
 4. connected one image on local drive as well as image on internet
 5. Used different heading sizes by utilizing '#' to determine size
 6. used numbered bullet points as well as regular bullet points
+7. Used horizontal lines
