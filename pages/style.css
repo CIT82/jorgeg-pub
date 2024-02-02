@@ -30,7 +30,15 @@ label {
     border: 5px black solid;
 }
 
-#mePic {
-    width: 50px;
+#robot {
+    width:100px;
+    float:inline-end;
+}
+#skull {
+    width: 100px;
     float:inline-start;
+}
+#mePic {
+    width: 100px;
+    float:inherit;
 }
